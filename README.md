@@ -20,4 +20,4 @@ I'm a passionate Frontend Developer. I'm a disciplined and team-oriented. I have
 If you would like to get in touch with me regarding my projects or any other matter, you can reach me through the following contact information:
 
 - Email: ilkhukuk@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ilker-%C5%9Fendo%C4%9Fan-64b853197/
+- LinkedIn: https://www.linkedin.com/in/ilkhukuk/
