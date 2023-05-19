@@ -13,7 +13,6 @@ I'm a passionate Frontend Developer. I'm a disciplined and team-oriented. I have
 - Bootstrap
 - Responsive Design
 - Git and Version Control
-- Design Tools (Photoshop, Figma)
 
 ## Contact
 
