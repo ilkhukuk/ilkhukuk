@@ -9,7 +9,6 @@ I'm a passionate Frontend Developer. I'm a disciplined and team-oriented. I have
 - CSS (SASS/LESS)
 - JavaScript (ES6+)
 - React
-- Vue.js
 - Bootstrap
 - Responsive Design
 - Git and Version Control
@@ -20,3 +19,4 @@ If you would like to get in touch with me regarding my projects or any other mat
 
 - Email: ilkhukuk@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ilkhukuk/
+- İnstagram: https://www.instagram.com/teymurilker/
