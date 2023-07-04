@@ -19,4 +19,4 @@ If you would like to get in touch with me regarding my projects or any other mat
 
 - Email: ilkhukuk@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ilkhukuk/
-- İnstagram: https://www.instagram.com/teymurilker/
+- İnstagram: https://www.instagram.com/ilk.hukuk/
