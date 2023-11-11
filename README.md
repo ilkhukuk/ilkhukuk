@@ -48,4 +48,7 @@ If you would like to get in touch with me regarding my projects or any other mat
 - LinkedIn: https://www.linkedin.com/in/ilkhukuk/
 - İnstagram: https://www.instagram.com/ilk.hukuk/
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ilkhukuk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
