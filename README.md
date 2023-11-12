@@ -36,7 +36,10 @@ I'm a passionate Frontend Developer. I'm a disciplined and team-oriented. I have
 - CSS (SASS/LESS)
 - JavaScript (ES6+)
 - React
-- Bootstrap
+- Redux/Toolkit
+- API
+- Firebase/Firestore
+- Bootstrap, tailwindcss
 - Responsive Design
 - Git and Version Control
 
